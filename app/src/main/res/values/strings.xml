@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Battery History</string>
+    <string name="xposed_description">Fix Pixel battery history show levels in future time</string>
+    <string-array name="scope">
+        <item>com.android.settings</item>
+    </string-array>
+</resources>
